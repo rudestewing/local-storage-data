@@ -1,11 +1,18 @@
 {
   "name": "local-storage-data",
-  "keywords": ["localStorage", "session", "local-storage-data", "expiration"],
-  "version": "1.0.0",
+  "keywords": [
+    "localStorage",
+    "session",
+    "local-storage-data",
+    "expiration"
+  ],
+  "version": "1.0.1",
   "description": "Small piece of code handle local storage simplify",
   "main": "index.js",
   "repository": "https://github.com/rudestewing/local-storage-data.git",
   "author": "Rudi Setiawan <rudestewing@gmail.com>",
   "license": "MIT",
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }
