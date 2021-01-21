@@ -53,8 +53,10 @@ function remove(key) {
   localStorage.removeItem(key)
 }
 
-export default {
+const localStorageData = {
   get,
   set,
   remove
 }
+
+module.exports = localStorageData
