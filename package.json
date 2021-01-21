@@ -6,7 +6,7 @@
     "local-storage-data",
     "expiration"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Small piece of code handle local storage simplify",
   "main": "index.js",
   "repository": "https://github.com/rudestewing/local-storage-data.git",
