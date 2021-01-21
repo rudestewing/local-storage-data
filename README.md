@@ -2,6 +2,22 @@
 Small piece of code handle localstorage simplify
 
 
+## Installation
+
+#### NPM
+```js
+npm install local-storage-data
+```
+
+#### YARN
+```js
+yarn add local-storage-data
+```
+
+## Usage
+
+### import package first
+
 ```js
   import localStorageData from 'local-storage-data'
 ```
